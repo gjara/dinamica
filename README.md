@@ -1,0 +1,2 @@
+# dinamica
+Test GIT
